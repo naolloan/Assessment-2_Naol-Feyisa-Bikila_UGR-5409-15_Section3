@@ -282,7 +282,7 @@ body {
 .footer-end {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding: 30px 220px;
   background-color: rgb(34, 34, 34);
